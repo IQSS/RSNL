@@ -1,0 +1,26 @@
+- c() support in PCorpus.
+- Test PCorpus with lazy mapping.
+- Create dist methods for pairs of documents/corpora/views
+- Think about how keepComputed affects ref-copies of views...
+  Basically, this should be fine, but is one place where the reference
+  model actually bites with views.  Otherwise, the interface makes
+  sure things will never behave strangely.
+- Clean up XXX comments in code
+- Perhaps, add tag-specific filters.
+- Think about how to optimize filtering by making use of any
+  pre-computed values instead of discarding them when a new transform is
+  applied.  Right now, if you force a computation and then apply a
+  filter all the previous computation will be wasted.  It seems like
+  it should always be safe to use the current state of the object when
+  applying new transforms, but we need to add something to keep track
+  of which transforms have been applied alreay and which haven't.
+- Similarly, think about how to combine chained filters into a single
+  operation.  This way we can take advantage of laziness to generate
+  fewer copies of the token vectors.
+- Think about view serialization.  It is a pain that you can't save
+  your environment.
+- Make meta support better.  tm's meta is a pain to work with now,
+  should be automatic.
+- Optimize java tagTokens methods for both taggers.  They make quite a
+  few copies now to convert things to the correct types and there
+  should be more direct conversion routes.

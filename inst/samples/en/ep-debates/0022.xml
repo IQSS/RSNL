@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Safer use of the Internet</TITLE>
+    <CODE>A6-0033/2004</CODE>
+    <DATE>2004-12-02</DATE>
+    <ITEM>4</ITEM>
+    <RAPPORTEUR>Edith MASTENBROEK</RAPPORTEUR>
+    <ISSUEAREA>3</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>Paasilinna</NAME>
+    <COUNTRY>FI</COUNTRY>
+    <GROUP>PSE</GROUP>
+    <STATUS>
+      <ISPRESIDENT>0</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>8</SPEAKER-NUMBER>
+  <TEXT>
+    Mr President, Commissioner, ladies and gentlemen, this programme cannot come too soon. ICT-based and other information technologies, and network security are vital to achieve the Lisbon objectives. We cannot allow criminals, irresponsible crackers and crooks to take over the Internet. Extortion has actually already come to the Internet as far as business is concerned. I would hope that by the time this programme is in its final stages the Commission will venture to adopt a strict policy and draft rules for restraint in this sector, which will prevent harmful, illegal and unwanted content. The harm is growing faster than the rate at which measures are being taken to prevent it. For this we could use the services of the European Network and Information Security Agency, ENISA. We therefore need new rules. Europe does not accept robbery on the highway or piracy on the high seas, so why should it accept such crimes on the Internet?
+  </TEXT>
+</DEBATE-SPEECH>
+

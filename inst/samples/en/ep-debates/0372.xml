@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Quality assurance in higher education</TITLE>
+    <CODE>A6-0261/2005</CODE>
+    <DATE>2005-10-13</DATE>
+    <ITEM>10</ITEM>
+    <RAPPORTEUR>Ljudmila NOVAK</RAPPORTEUR>
+    <ISSUEAREA>4</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>President</NAME>
+    <COUNTRY></COUNTRY>
+    <GROUP></GROUP>
+    <STATUS>
+      <ISPRESIDENT>1</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>10</SPEAKER-NUMBER>
+  <TEXT>
+    The debate is closed. The vote will take place tomorrow, Thursday 13 October, at 11 a.m.
+  </TEXT>
+</DEBATE-SPEECH>
+

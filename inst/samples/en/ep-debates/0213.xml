@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Infrastructure for spatial information in the Community (INSPIRE) </TITLE>
+    <CODE>A6-0108/2005</CODE>
+    <DATE>2005-06-07</DATE>
+    <ITEM>3</ITEM>
+    <RAPPORTEUR>Frederika BREPOELS</RAPPORTEUR>
+    <ISSUEAREA>1</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>Urszula Krupa</NAME>
+    <COUNTRY>PL</COUNTRY>
+    <GROUP>IND/DEM</GROUP>
+    <STATUS>
+      <ISPRESIDENT>0</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>10</SPEAKER-NUMBER>
+  <TEXT>
+    Mr President, the proposal for a directive on INSPIRE lays down rules for the establishment of a spatial information infrastructure for the purposes of implementing Community environmental policies in the Member States. Its primary focus is intended to be collections of spatial data and associated services, network technologies for sharing, access, use, coordination and monitoring mechanisms and procedures. The principles and goals underlying these tasks, or in other words classification, standardisation and the establishment of an EU-wide database, would merit closer consideration if it were not for the fact that many European countries are currently experiencing political and economic problems as a result of rising unemployment and slow economic growth. There is a never-ending stream of proposals for new directives, even though it is the poorest among us who have to bear the brunt of their costs. Annual investments of as much as EUR 5 million per Member State could be necessary to implement INSPIRE, and yet the database will not be fully functional for another 10 years. It is worth emphasising at this point that attempts to create an information infrastructure must not run counter to the social policies of the individual Member States. The lofty goals proclaimed by the authors of the directive will be used as a pretext for the establishment of a database. Although such a database could well serve a variety of purposes, it could also be used as a political football, and this would pose a major risk. We therefore feel that this is not the most pressing of the many problems the EU needs to resolve. What is more, the directive requires further work and the incorporation of a great many safeguards.
+  </TEXT>
+</DEBATE-SPEECH>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Nutrition and health claims in labelling</TITLE>
+    <CODE>A6-0128/2005</CODE>
+    <DATE>2005-05-26</DATE>
+    <ITEM>15</ITEM>
+    <RAPPORTEUR>Adriana POLI BORTONE</RAPPORTEUR>
+    <ISSUEAREA>4</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>1</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>President</NAME>
+    <COUNTRY></COUNTRY>
+    <GROUP></GROUP>
+    <STATUS>
+      <ISPRESIDENT>1</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>1</SPEAKER-NUMBER>
+  <TEXT>
+    – The next item is the report (A6 – 0128/2005) by Mrs Poli Bortone, on behalf of the Committee on the Environment, Public Health and Food Safety, on nutrition and health claims made on foods (COM(2003)0424 – C5 – 0329/2003 – 2003/0165(COD)).
+  </TEXT>
+</DEBATE-SPEECH>
+

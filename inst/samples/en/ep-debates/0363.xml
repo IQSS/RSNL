@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Quality assurance in higher education</TITLE>
+    <CODE>A6-0261/2005</CODE>
+    <DATE>2005-10-13</DATE>
+    <ITEM>10</ITEM>
+    <RAPPORTEUR>Ljudmila NOVAK</RAPPORTEUR>
+    <ISSUEAREA>4</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>President</NAME>
+    <COUNTRY></COUNTRY>
+    <GROUP></GROUP>
+    <STATUS>
+      <ISPRESIDENT>1</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>1</SPEAKER-NUMBER>
+  <TEXT>
+    The next item is the report by Mrs Novak, on behalf of the Committee on Culture and Education, on the proposal for a recommendation of the Council and of the European Parliament on further European cooperation in quality assurance in higher education (COM(2004)0642 – C6-0142/2004 – 2004/0239(COD)) ( A6-0261/2005 ).
+  </TEXT>
+</DEBATE-SPEECH>
+

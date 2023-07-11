@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Youth in Action</TITLE>
+    <CODE>A6-0263/2005</CODE>
+    <DATE>2005-10-25</DATE>
+    <ITEM>7</ITEM>
+    <RAPPORTEUR>Lissy GRÖNER</RAPPORTEUR>
+    <ISSUEAREA>4</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>1</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>President</NAME>
+    <COUNTRY></COUNTRY>
+    <GROUP></GROUP>
+    <STATUS>
+      <ISPRESIDENT>1</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>1</SPEAKER-NUMBER>
+  <TEXT>
+    The next item is the report by Mrs Gröner, on behalf of the Committee on Culture and Education, on the proposal for a Decision of the European Parliament and of the Council creating the ‘Youth in Action’ programme for the period 2007-2013 (COM(2004)0471 – C6 0096/2004 – 2004/0152(COD)) ( A6-0263/2005 ).
+  </TEXT>
+</DEBATE-SPEECH>
+

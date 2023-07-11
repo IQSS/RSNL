@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Reinsurance</TITLE>
+    <CODE>A6-0146/2005</CODE>
+    <DATE>2005-06-07</DATE>
+    <ITEM>4</ITEM>
+    <RAPPORTEUR>Peter SKINNER</RAPPORTEUR>
+    <ISSUEAREA>2</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>President</NAME>
+    <COUNTRY></COUNTRY>
+    <GROUP></GROUP>
+    <STATUS>
+      <ISPRESIDENT>1</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>1</SPEAKER-NUMBER>
+  <TEXT>
+    The next item is the debate on the report by Mr Skinner, on behalf of the Committee on Economic and Monetary Affairs, on the proposal for a directive of the European Parliament and of the Council on reinsurance and amending Council Directives 73/239/EEC and 92/49/EEC and Directives 98/78/EC e 2002/83/EC (COM(2004)0273  C6-0038/2004  2004/0097(COD)) ( A6-0146/2005 ).
+  </TEXT>
+</DEBATE-SPEECH>
+

@@ -1,0 +1,241 @@
+useDynLib(RSNL)
+import(methods)
+import(tm)
+import(Rstem)
+import(rJava)
+
+exportClasses(
+    "Pattern",
+    "Matcher",
+    "RSNLCorpus",
+
+    "View",
+    "DocumentView",
+    "CorpusView",
+    
+    "TokenizedView",
+    "TokenizedDocumentView",
+    "TokenizedCorpusView",
+
+    "Tokenizer",
+    "RegexTokenizer",
+    "PTBTokenizer",
+    "OffsetTokenizer",
+
+    "Tagged",
+    "TagSafe",
+
+    "TaggedView",
+    "TaggedDocumentView",
+    "TaggedCorpusView",
+
+    "Tagger",
+    "MaxentTagger",
+    "NamedEntityTagger",
+
+    "DocumentFilter",
+    "FunctionalDocumentFilter",
+    "RegexDocumentFilter",
+    
+    "TokenTransform",
+    "FunctionalTokenTransform",
+    "TagSafeFunctionalTokenTransform",
+    "TolowerTokenTransform",
+    "RegexTokenTransform",
+    "Stemmer",
+    "SnowballStemmer",
+
+    "TokenFilter",
+    "FunctionalTokenFilter",
+    "StopFilter",
+    "RegexTokenFilter",
+    "TokenDocFreqFilter",
+    "EmptyTokenFilter",
+    "PunctTokenFilter",
+    "FunctionalTagFilter",
+    "RegexTagFilter",
+    "lda"
+)
+
+exportMethods(
+    "ref",             # RObject
+    "ref<-",           # RObject
+    "clone",           # RObject
+    "initialize",      # RObject
+    "reftype",         # RClass.R (character)
+    "show",           # Many
+
+    "re.flags",        # Pattern
+    "re.matcher",      # Pattern
+    "re.pattern",      # Pattern
+    "re.split",        # Pattern
+    "re.findall",      # Pattern
+
+    "re.matchesPart",  # Pattern
+    "re.sub",          # Pattern
+
+    "re.end",          # Matcher
+    "re.find",         # Matcher
+    "re.group",        # Matcher
+    "re.groupCount",           # Matcher
+    "re.hasAnchoringBounds",   # Matcher
+    "re.hasTransparentBounds", # Matcher
+    "re.hitEnd",       # Matcher
+    "re.lookingAt",    # Matcher
+    "re.matches",      # Matcher
+    "re.region",       # Matcher
+    "re.regionEnd",    # Matcher
+    "re.regionStart",  # Matcher
+    "re.replaceAll",   # Matcher
+    "re.replaceFirst", # Matcher
+    "re.requireEnd",   # Matcher
+    "re.reset",        # Matcher
+    "re.start",        # Matcher
+    "re.useAnchoringBounds",   # Matcher
+    "re.usePattern",           # Matcher
+    "re.useTransparentBounds", # Matcher
+
+    "registerView",    # ViewableObject
+    "updateView",      # ViewableObject (but implemented for views)
+    "updateViews",     # ViewableObject
+
+    "RSNLCorpus",      # RSNLCorpus
+    "DMetaData",       # RSNLCorpus
+    "DMetaData<-",     # RSNLCorpus
+    "CMetaData",       # RSNLCorpus
+    "DBControl",       # RSNLCorpus
+    "meta",            # RSNLCorpus
+    "[",               # RSNLCorpus
+    "[<-",             # RSNLCorpus
+    "[[",              # RSNLCorpus
+    "[[<-",            # RSNLCorpus
+#    "c",               # RSNLCorpus
+#    "appendMeta",      # RSNLCorpus
+#    "removeMeta",      # RSNLCorpus
+#    "prescindMeta",    # RSNLCorpus
+    "appendElem",      # RSNLCorpus
+    "tmMap",           # RSNLCorpus
+    "lapply",          # RSNLCorpus
+    "sapply",          # RSNLCorpus
+#    "tmUpdate",        # RSNLCorpus
+    "inspect",         # RSNLCorpus
+    "tmFilter",        # RSNLCorpus
+    "tmIndex",         # RSNLCorpus
+    "length",          # RSNLCorpus, CorpusView
+
+    "corpus",          # View
+    "keepComputed",    # View
+    "keepComputed<-",  # View
+    "clearComputed",   # View
+
+    "documentViews",   # CorpusView
+    "documentFilters", # CorpusView
+    "keepDocumentViews",   # CorpusView
+    "keepDocumentViews<-", # CorpusView
+
+    "document",        # DocumentView
+    "index",           # DocumentViews
+
+    "tokenize",        # Tokenizer
+    "offsets",         # OffsetTokenizer
+    "offsets<-",       # OffsetTokenizer
+    "RegexTokenizer",  # RegexTokenizer
+    "pattern",         # RegexTokenizer, RegexTagger
+    "pattern<-",       # RegexTokenizer
+    "matchToken",      # RegexTokenizer
+    "matchToken<-",    # RegexTokenizer
+
+    "tokenizer",       # TokenizedView
+    "tokenFilters",    # TokenizedView 
+    "tokenTransforms", # TokenizedView 
+    "unique",          # TokenizedView
+    "freq",            # TokenizedView
+    "freqTable",       # TokenizedView
+    "has",             # TokenizedView
+
+    "tokens",          # TokenizedDocumentView
+
+    "documentTokenMatrix", # TokenizedCorpusView
+
+    "filterDocuments", # DocumentFilter
+
+    "FunctionalDocumentFilter", 
+    "func",            # FunctionalDocumentFilter
+    "isAppliedToEach", # FunctionalDocumentFilter
+    "isNegated",       # FunctionalDocumentFilter
+     
+    "RegexDocumentFilter",
+  
+    "transformTokens", # TokenTransform
+
+    "FunctionalTokenTransform",
+
+    "RegexTokenTransform",  # RegexTokenTransform
+    "replacementString",    # RegexTokenTransform
+
+    "stem",            # Stemmer
+    "language",        # Snowball stemmer
+
+    "filterTokens",    # TokenFilter
+
+    "FunctionalTokenFilter", # FunctionalTokenFilter
+
+    "StopFilter",      # StopFilter
+    "stoplist",        # StopFilter
+
+    "RegexTokenFilter", # RegexTokenFilter
+
+    "TokenDocFreqFilter", # TokenDocFreqFilter
+    "minFreq",            # TokenDocFreqFilter
+    "maxFreq",            # TokenDocFreqFilter
+
+    "label",           # Tagged
+    "label<-",           # Tagged
+    "flatten",           # Tagged
+
+    "tagger",          # TaggedView
+
+    "tags",            # TaggedDocumentView
+    "taggedTokens",    # TaggedDocumentView
+
+    "documentTaggedTokenMatrix", # TaggedCorpusView
+    "documentTagMatrix", # TaggedCorpusView
+
+    "tag",             # Tagger
+    "model",             # NamedEntityTagger
+
+    "FunctionalTagFilter",
+    "RegexTagFilter",
+
+    "lda",
+    "topics",           # lda
+    "terms",            # lda
+    "num.terms",            # lda
+    "num.topics",            # lda
+    "get.alpha",            # lda
+    "get.beta",            # lda
+    "get.gamma"            # lda
+
+)
+
+export(
+    "setClass",
+    "re.compile",        # Pattern constructor
+    "setKeepComputedDefault",
+    "setKeepDocumentViewsDefault",
+    "getKeepComputedDefault",
+    "getKeepDocumentViewsDefault",
+    "PTBTokenizer",
+    "OffsetTokenizer",
+    "EmptyTokenFilter",
+    "PunctTokenFilter",
+    "TolowerTokenTransform",
+    "SnowballStemmer",
+    "MaxentTagger",
+    "NamedEntityTagger",
+    "Tagged",
+    "predict.lda"
+)
+
+# XXX Covering for tm bug.  Remove when no longer needed.
+S3method("as.matrix", "simple_triplet_matrix")

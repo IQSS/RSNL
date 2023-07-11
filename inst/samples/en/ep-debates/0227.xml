@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Polycyclic aromatic hydrocarbons</TITLE>
+    <CODE>A6-0104/2005</CODE>
+    <DATE>2005-06-09</DATE>
+    <ITEM>4</ITEM>
+    <RAPPORTEUR>Adamos ADAMOU</RAPPORTEUR>
+    <ISSUEAREA>3</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>President</NAME>
+    <COUNTRY></COUNTRY>
+    <GROUP></GROUP>
+    <STATUS>
+      <ISPRESIDENT>1</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>1</SPEAKER-NUMBER>
+  <TEXT>
+    The next item is the debate on the report by Adamos Adamou, on behalf of the Committee on the Environment, Public Health and Food Safety, on the proposal for a directive of the European Parliament and of the Council relating to restrictions on the marketing and use of certain polycyclic aromatic hydrocarbons in extender oils and tyres (twenty-seventh amendment of Council Directive 76/769/EEC) (COM(2004)0098 - C5-0081/2004 - 2004/0036(COD)) ( A6-0104/2005 )
+  </TEXT>
+</DEBATE-SPEECH>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Quality assurance in higher education</TITLE>
+    <CODE>A6-0261/2005</CODE>
+    <DATE>2005-10-13</DATE>
+    <ITEM>10</ITEM>
+    <RAPPORTEUR>Ljudmila NOVAK</RAPPORTEUR>
+    <ISSUEAREA>4</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>Rolandas Pavilionis</NAME>
+    <COUNTRY>LT</COUNTRY>
+    <GROUP>UEN</GROUP>
+    <STATUS>
+      <ISPRESIDENT>0</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>6</SPEAKER-NUMBER>
+  <TEXT>
+    While welcoming my colleague Novak’s report, I would like to draw your attention to Amendment 25, which proposes to delete the part of the Commission’s text urging ‘to accept the assessments made by all quality assurance and accreditation agencies listed in the European Register as a basis for decisions on licensing or funding higher-education institutions.’ I believe that this Commission's proposal is well-founded and particularly important, as it allows quality assessment of higher education to be linked to an institution’s funding. This is particularly relevant for new European Union countries, including my own country Lithuania. If we reject this proposal by the Commission, we would lose an especially important European vehicle, one which helps to ensure the quality of higher education throughout the European Union and to avoid squandering funds.
+  </TEXT>
+</DEBATE-SPEECH>
+

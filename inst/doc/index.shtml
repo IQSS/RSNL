@@ -1,0 +1,91 @@
+<html>
+<head>
+<title>RSNL Software Website</title>
+<script language='Javascript' src='/gking.js'></script></HEAD>
+
+<BODY><script language="Javascript">displayHeader()</script>
+
+<h1>RSNL: R Statistics for Natural Language</h1>
+
+<a href="mailto:afader@umich.edu">Anthony Fader</a>
+<a href="/">Gary King</a>,
+<a href="http://www.danpemstein.com/">Daniel Pemstein</a>,
+<a href="http://www.people.fas.harvard.edu/~kquinn/">Kevin Quinn</a>
+<br /><br />
+<!-- rbuild: replace 'Version:' '</b>' version -->
+<b>Version:0.11</b>
+
+<p style="float:left; width: 500; margin: 1.5em;"> <img
+src="/RSNL/AlphabetChart2.gif" width="500"  />
+
+<p>RSNL (pronounced "arsenal") is open source software platform for
+the statistical analysis of unstructured textual data, written for the
+R language for statistical computing.  While the base R language has
+exceptional capabilities for data analysis, it currently has only
+rudimentary capabilities for processing textual data. On the other
+hand, standard packages for statistical natural language processing
+have extensive support for data processing but only limited support
+for statistical modeling and data analysis.  RSNL serves as a bridge
+between these two worlds by providing the language fundamentals for R
+to analyze text data and making it easy to call routines from other
+languages for processing textual data from within R.  RSNL thus
+provides a unified (and eventually comprehensive) suite of tools for
+data processing, statistical analysis, and graphical displays of
+textual data, and a platform on which it is easy to build new tools.
+We hope this accelerates the development of new statistical methods
+for textual data and more applied researchers who think of text
+sources as just another data set.
+
+<p>The initial version of RSNL will allow users to perform common
+natural language processing tasks: Tokenization; Stemming; Token
+filtering (by frequency, regular expression, arbitrary function);
+Token replacing; Part of speech tagging; Calculate document and corpus
+distance measures; Manage document relationships in a corpus (e.g.,
+hyperlink network); Manage document structure (e.g., sentences and
+paragraphs); HTML parsing; Readability tests (e.g., Flesch-Kincaid);
+Functions to compute n-gram statistics.  In addition, RSNL seamlessly
+integrates its own internal data structures with the standard data
+types expected by existing R functions. The data structures used by
+RSNL will be designed to accommodate the large datasets that are
+common in statistical natural language processing work.
+
+<p>RSNL will feature two sets of documentation---a developer API
+designed for developers wishing to add functionality to the package
+and a standard user manual designed to help applied researchers use
+the package to solve substantive problems of interest to them.
+
+<p>RSNL is currently in early development and the source distribution
+available here is best described as pre-release code.
+
+<ul> 
+
+<li>RSNL depends on the R packages tm and Rstem, and rJava.</li>
+    
+<li>Currently, RSNL is available only as a source distribution.
+    To install, sign on to R, and type:
+    install.packages("RSNL",repos="http://gking.harvard.edu",
+    type="source") or
+<!-- rbuild: replace 'RSNL_' '.tar.gz' version -->
+    <a href="http://gking.harvard.edu/src/contrib/RSNL_0.11.tar.gz">download here</a> and install using R CMD INSTALL.</li>
+<li>You can find a short introduction to RSNL's current capabilities
+<a href="/RSNL/intro.pdf">here</a>.
+</li>
+    <!---
+<li>For documentation, from R, type library(RSNL), and then ?RSNL,
+    or download <a href="docs/RSNL.pdf">PDF</a>  (or try the translated <a
+    href="http://gking.harvard.edu/RSNL/docs/RSNL.html">html
+    version</a>)
+-->
+
+<li>All questions, bugs and requests: Mailing List, <a
+href="http://lists.gking.harvard.edu/index.cgi?info=rsnl"
+target="gkingext">[Un]Subscribe</a>, or <a
+href="http://lists.gking.harvard.edu/lists/rsnl_at_lists_gking_harvard_edu"
+target="gkingext">Browse/Search Archives</a></li> 
+
+<li><a href="/RSNL/" target="ChangeDetectionWiz"
+    onClick="doChangeDetectionPopup()"> Track RSNL changes</a></li>
+</ul>
+
+<script language="Javascript">displayFooter()</script></BODY>
+</html>

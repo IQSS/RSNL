@@ -1,0 +1,15 @@
+Some java classes that provide bridges between RSNL and the Stanford
+NLP code.  The edu/ tree is a Frankenstein of the edu/ trees from the
+Stanford POS tagger and the Stanford NER.
+
+We built the hybrid tree by:
+  Using NER code whenever
+    the file only appeared in the NER tree
+    the file appeared in both trees
+  Using POS code whenever
+    the file only appeared in the POS tree
+
+We also had to make two small changes to
+tagger/maxent/ExtractorFramesRare.java to make it work with the newer
+NER code.  These changes are on lines 1194 and 1224 and are tagged
+with DBP (+ orig code) comments in the source.

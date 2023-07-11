@@ -1,0 +1,17 @@
+Package: RSNL
+Version: 0.11
+Date: 2009-08-31
+Title: RSNL
+Author: Anthony Fader <afader@umich.edu>
+        Gary King <king@harvard.edu>
+        Daniel Pemstein <dpemstein@iq.harvard.edu>
+        Kevin Quinn <kquinn@fas.harvard.edu>
+Maintainer: Daniel Pemstein <dpemstein@iq.harvard.edu>
+Depends: R (>= 2.6.0), methods, tm, Rstem, rJava
+Description: RSNL (pronounced "arsenal") is open source software platform for 
+	the statistical analysis of unstructured textual data, 
+	written for the R language for statistical computing.
+License: GPL (>= 2)
+URL: http://gking.harvard.edu/RSNL/
+Collate: onload.R RClass.R Pattern.R Matcher.R Tagged.R nulls.R keepGlobals.R ViewableObject.R PCorpus.R View.R CorpusView.R DocumentView.R TokenizedView.R TokenizedCorpusView.R TokenizedDocumentView.R Tokenizer.R RegexTokenizer.R OffsetTokenizer.R PTBTokenizer.R TaggedView.R TaggedDocumentView.R TaggedCorpusView.R Tagger.R MaxentTagger.R NamedEntityTagger.R DocumentFilter.R FunctionalDocumentFilter.R RegexDocumentFilter.R TokenTransform.R FunctionalTokenTransform.R RegexTokenTransform.R TolowerTokenTransform.R Stemmer.R SnowballStemmer.R TokenFilter.R FunctionalTokenFilter.R StopFilter.R RegexTokenFilter.R TokenDocFreqFilter.R EmptyTokenFilter.R PunctTokenFilter.R FunctionalTagFilter.R RegexTagFilter.R lda.R defaults.R zzz.R
+Packaged: 2009-09-01 03:44:07 UTC; rbuild2

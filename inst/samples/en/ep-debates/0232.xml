@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Polycyclic aromatic hydrocarbons</TITLE>
+    <CODE>A6-0104/2005</CODE>
+    <DATE>2005-06-09</DATE>
+    <ITEM>4</ITEM>
+    <RAPPORTEUR>Adamos ADAMOU</RAPPORTEUR>
+    <ISSUEAREA>3</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>Johannes Blokland</NAME>
+    <COUNTRY>NL</COUNTRY>
+    <GROUP>IND/DEM</GROUP>
+    <STATUS>
+      <ISPRESIDENT>0</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>6</SPEAKER-NUMBER>
+  <TEXT>
+    Mr President, I should like to congratulate the rapporteur on the compromise struck. The fact that most groups but also the Commission, the Council and industry are nearly all of the same mind is the result of sound work put in by Mr Adamou. Yesterday, I, along with others apparently, was approached by an aircraft tyre manufacturer who informed me that the extensive tests and security requirements to which aircraft tyres are subjected will make it impossible for him to keep to the 2010 deadline. I assume that the rapporteur and Commissioner have also been approached, and I should like to know whether those objections have any real value. I would also like to hear from the Commissioner what his opinion is on the matter and whether aircraft tyre manufacturers are now able to meet the requirements of the compromise package. I was under the impression, from my contacts over the past six months, that that should be feasible, but I am very keen to hear your reaction.
+  </TEXT>
+</DEBATE-SPEECH>
+

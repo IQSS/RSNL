@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Safer use of the Internet</TITLE>
+    <CODE>A6-0033/2004</CODE>
+    <DATE>2004-12-02</DATE>
+    <ITEM>4</ITEM>
+    <RAPPORTEUR>Edith MASTENBROEK</RAPPORTEUR>
+    <ISSUEAREA>3</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>Muscardini</NAME>
+    <COUNTRY>IT</COUNTRY>
+    <GROUP>UEN</GROUP>
+    <STATUS>
+      <ISPRESIDENT>0</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>11</SPEAKER-NUMBER>
+  <TEXT>
+    The Internet is a universe of limitless freedom but, as there are no rules to control its use, it may also be a universe of infinite freedom to abuse, groom and violate. For years I have been taking political action in the European Parliament, tabling dozens of motions for resolutions and questions and issuing countless press releases and statements, in order to have democratic rules established, that is to say rules and laws that protect the citizen and punish those who use the Internet for criminal purposes. This year I have succeeded in having the objectives of the Daphne programme include the request to ‘study the possibility of creating filters to stop the spread of child pornography on the Internet’. Now, at last, the Council and Parliament have decided to set up a new programme to promote safer use of the Internet. We also need an awareness campaign, greater funding, and a more incisive attack on the use that criminals make of the Internet. In that context I must point out that in Italy I have brought a ground-breaking suit against a site that puts out false information about Members of the European Parliament and about Europe. There is no case-law yet on the subject, and so we do not know how to stop a citizen of one Member State from spreading falsehoods about a citizen of another Member State. For freedom to be real freedom, it needs rules!
+  </TEXT>
+</DEBATE-SPEECH>
+

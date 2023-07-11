@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Driving licences</TITLE>
+    <CODE>A6-0016/2005</CODE>
+    <DATE>2005-02-23</DATE>
+    <ITEM>6</ITEM>
+    <RAPPORTEUR>Mathieu GROSCH</RAPPORTEUR>
+    <ISSUEAREA>3</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>1</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>Chruszcz</NAME>
+    <COUNTRY>PL</COUNTRY>
+    <GROUP>IND/DEM</GROUP>
+    <STATUS>
+      <ISPRESIDENT>0</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>8</SPEAKER-NUMBER>
+  <TEXT>
+    Madam President, ladies and gentlemen, I should like to congratulate Mr Grosch on his work, which I believe will continue to pay dividends for a long time to come. At the same time, however, there is another point I should like to make. This House frequently favours unnecessary regulations and a surplus of details, thus making issues that are simple and obvious needlessly complex. One of the reasons for this may well be that the European Parliament is an EU institution. Many European countries, including my country, Poland, already issue perfectly good driving licences equipped with a great many security features, and paper driving licences are in any case being gradually replaced. Training for learner drivers is also constantly improving, and countries are learning a great deal from each other. This is why I am concerned to hear that many citizens in EU Member States will have to undergo the ordeal of exchanging their driving licence yet again. In my opinion the inclusion of microchips and the frequent exchange of driving licences as proposed by Mr Grosch entails unnecessary expense. It would also be a waste of time for the citizens, who would prefer to do anything else rather than stand in a queue waiting for a licence to be issued. Finally, I should like to point out that, in my view, official restrictions that determine whether foreigners may apply for and be issued with driving licences are incompatible with the principle of the free movement of persons. A distinction should be made between those who have committed an offence in their own country and are attempting to acquire a new driving licence in another country, and those who live in border regions and prefer to choose a better and cheaper driving school on the other side of the border.
+  </TEXT>
+</DEBATE-SPEECH>
+

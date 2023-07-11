@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DEBATE-SPEECH>
+  <BILL>
+    <TITLE> Security of electricity supply and infrastructure investment</TITLE>
+    <CODE>A6-0099/2005</CODE>
+    <DATE>2005-07-05</DATE>
+    <ITEM>7</ITEM>
+    <RAPPORTEUR>GILES CHICHESTER</RAPPORTEUR>
+    <ISSUEAREA>3</ISSUEAREA>
+    <PASSED>1</PASSED>
+    <RCV>0</RCV>
+  </BILL>
+  <SPEAKER>
+    <NAME>Leopold Józef Rutowicz</NAME>
+    <COUNTRY>PL</COUNTRY>
+    <GROUP>NI</GROUP>
+    <STATUS>
+      <ISPRESIDENT>0</ISPRESIDENT>
+      <ISCOUNCIL>0</ISCOUNCIL>
+      <ISCOMMISSION>0</ISCOMMISSION>
+      <ISOTHERBUREAUCRAT>0</ISOTHERBUREAUCRAT>
+      <ISRAPPORTEUR>0</ISRAPPORTEUR>
+      <ISCOMMITTEEREP>0</ISCOMMITTEEREP>
+      <ISAUTHOR>0</ISAUTHOR>
+      <ISONBEHALFOFGROUP>0</ISONBEHALFOFGROUP>
+    </STATUS>
+  </SPEAKER>
+  <SPEAKER-NUMBER>10</SPEAKER-NUMBER>
+  <TEXT>
+    Mr President, I should like to thank Mr Chichester for his objective report on safeguarding the security of electricity supply. The report deals with issues relating to cross-border supply and the main energy grid. Small-scale power generation, which involves a small number of electric power plants fuelled by water, wind or geothermal energy and gas power plants fuelled by biomass energy, is also of enormous significance for energy security in individual regions. There are a great many reasons why small-scale power generation of this kind should be encouraged. As well as being environmentally friendly, it reduces transmission costs and minimises the impact of outages in the main grids. Investment is needed to develop regional grids and small-scale power generation, however, and this includes investment in research. The small power generators frequently encounter problems relating to grid connection and the synchronisation amongst themselves. In my opinion, these problems should be given more emphasis in the directive.
+  </TEXT>
+</DEBATE-SPEECH>
+
